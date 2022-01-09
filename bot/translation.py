@@ -5,11 +5,11 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>NAN AUTO FILTER BOT ANNU NINTR GROUPIL ADD AKI TIME KALLAYANDA ITH FILM FACTORY OFFICIAL BOT ANNU....😉
+<i>MY NAME IS MINAL VERALI....😉
 
-ENTHAYALUM VANNATH ALE E CHANNEL https://t.me/ONLYMOVIE1233 IL JOIN CHEYITHITT POKKOLU🔥🔥😝
+ENTHAYALUM VANNATH ALE E CHANNEL 🔥🔥😝
 
-For More Details Click Help Button Below..
+JOIN CHEYITHITT POKKOLU https://t.me/ONLYMOVIE1233..
 @AjuAjuzz1
 </i>"""    
     
@@ -43,7 +43,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@MINAL VERALI
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> MINAL MURALI</code>
