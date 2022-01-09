@@ -5,12 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>NAN AUTO FILTER BOT ANNU NINTR GROUPIL ADD AKI TIME KALLAYANDA ITH FILM FACTORY OFFICIAL BOT ANNU....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+ENTHAYALUM VANNATH ALE E CHANNEL https://t.me/ONLYMOVIE1233 IL JOIN CHEYITHITT POKKOLU🔥🔥😝
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@AjuAjuzz1
 </i>"""    
     
     HELP_TEXT = """
@@ -46,13 +46,13 @@ For More Details Click Help Button Below..
 @CrazyBotsz
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> MINAL MURALI</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="@AjuAjuzz1_TG">@AjuAjuzz1</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://github.com/Ajmal342/MINAL-MURALI">Click Me</a></i>
 """
